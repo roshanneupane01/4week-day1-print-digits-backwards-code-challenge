@@ -1,0 +1,3 @@
+4 Week Day 1 Print Digits Backwards Coding Challenge
+
+In this coding challenge, I have created an arrow function named digitString that takes a string representing a sequence of digits as a parameter. The purpose of this function is to reverse the order of the digits and print the reversed string. The solution involves utilizing fundamental string manipulation techniques and iterative looping. By iterating through the characters of the input string and constructing a new string in reverse order, I achieve the desired outcome. The resulting reversed string is then displayed through console output.
